@@ -1,7 +1,11 @@
 # LOST21K
 <br>
 ## Kontakt
-Schreibt einfach einen Mail an
+Schreibt einfach einen Mail an wenn ihr Ideen oder Fragen habt.
+Ideen werden gerne von mir umgesetzt sofern das möglich ist
+Also zB neue Skripte oder so oder auch modifikation bzw updates
+Falls etwas nicht mehr gehen sollte auch gerne schreiben :)
+<br>
 lost21k@protonmail.com
 <br>
 ## Wofür ist diese Website?
