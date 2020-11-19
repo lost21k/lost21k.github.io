@@ -1,5 +1,9 @@
 # LOST21K
 <br>
+## Kontakt
+Schreibt einfach einen Mail an
+lost21k@protonmail.com
+<br>
 ## Wofür ist diese Website?
 Finde Programme, die dir helfen
 <br>
