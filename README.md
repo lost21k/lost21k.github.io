@@ -1,4 +1,10 @@
-# LOST21K
+<title>lost21k</title>
+<style>
+  body {
+    background-color: #222222;
+  }
+</style>
+<h1>LOST21K</h1>
 <br>
 ## Wofür ist diese Website?
 Finde Programme, die dir helfen
