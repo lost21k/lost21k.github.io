@@ -1,7 +1,8 @@
 <title>lost21k</title>
 <style>
-  body {
+  * {
     background-color: #222222;
+    text-color: #dddddd;
   }
 </style>
 <h1>LOST21K</h1>
