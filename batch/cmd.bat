@@ -1,8 +1,8 @@
 @echo off
+title created by lost21k
 echo Created by Lost21k
 echo Have fun ;)
-@echo on
 :a
-set x /p "%cd% >> "=
+set /p x=%cd%
 x
 goto a
