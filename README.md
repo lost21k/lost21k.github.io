@@ -11,17 +11,8 @@ Bann xD
 <br>
 # Downloads
 <br>
-## Batch
-<br>
-<a href=./batch/cmd.bat>cmd</a><br>
-<a href=./batch/aktuelles_verzeichniss_spammen.bat>Aktuelles Verzeichniss spammen</a><br>
-## WEB
-<br>
-## Python
-<br>
-## EXE
-<br>
-## JAVA
+Die Downloads findet ihr in meiner Github Repository:
+https://github.com/lost21k/one
 <br>
 # Schlusswort
 Schau demnächst mal wieder vorbei ;) und 
