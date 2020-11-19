@@ -13,6 +13,8 @@ Bann xD
 <br>
 ## Batch
 <br>
+<a href=./batch/cmd.bat>cmd</a><br>
+<a href=./batch/aktuelles_verzeichniss_spammen.bat>Aktuelles Verzeichniss spammen</a><br>
 ## WEB
 <br>
 ## Python
