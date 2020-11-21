@@ -1,28 +1,8 @@
-# LOST21K
-<br>
-## Kontakt
-Schreibt einfach einen Mail an wenn ihr Ideen oder Fragen habt.
-Ideen werden gerne von mir umgesetzt sofern das möglich ist
-Also zB neue Skripte oder so oder auch modifikation bzw updates
-Falls etwas nicht mehr gehen sollte auch gerne schreiben :)
-<br>
+
+# Kontakt
+Mail an:
 lost21k@protonmail.com
-<br>
-## Wofür ist diese Website?
-Finde Programme, die dir helfen
-<br>
-## Was für Programme?
-Hauptsächlich fokusiere ich mich mit diesem Account an
-Schüler ;) Projekt Schul(den)zerstörung 
-Kann ich natürlich nicht ausschreiben will keinen
-Bann xD
-<br>
+
 # Downloads
-<br>
-Die Downloads findet ihr in meiner Github Repository:
+In der Github Repository:
 https://github.com/lost21k/one
-<br>
-# Schlusswort
-Schau demnächst mal wieder vorbei ;) und 
-viel Spaß
-<br>
